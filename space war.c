@@ -1,4 +1,3 @@
-@@ -0,0 +1,112 @@
 #include <ncurses.h>
 #include <stdlib.h>
 #include <time.h>
